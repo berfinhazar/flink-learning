@@ -1,6 +1,6 @@
 # Flink Learning
 
-Aldığım Apache Flink eğitimi kapsamında geliştirdiğim Java projeleri. Kelime sayımı, pencereleme, Twitter veri analizi, banka işlemlerinde şüpheli hareket tespiti ve hisse senedi analizi uygulamalarını içerir.
+Apache Flink eğitimi kapsamında geliştirdiğim Java projeleri. Kelime sayımı, pencereleme, Twitter veri analizi, banka işlemlerinde şüpheli hareket tespiti ve hisse senedi analizi uygulamalarını içerir.
 
 ## Projeler
 
